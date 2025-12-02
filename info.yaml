@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     447909765247473665       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      IC Design
-  author:       ""      Micah Hunter
+  title:        "IC Design"      
+  author:       "Micah Hunter"      
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      A circuit that runs current through two lights 
+  description:  "A circuit that runs current through two lights"       
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
